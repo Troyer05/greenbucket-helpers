@@ -58,6 +58,12 @@ und melden Sich dort mit Ihrem greenbucket&reg; Account an. Tragen Sie dort Term
 
 <br><br>
 
+# Comming Soons
+
+Es ist bald geplant, noch eine Bildergallerie hinzu zu fügen.
+
+<br><br>
+
 # Kontakt
 
 Gibt es Probleme oder haben Sie Fragen? Kein Problem! Kontaktieren Sie uns unter <a href="https://greenbucket.online/kontakt">greenbucket.online/kontakt</a><br>
